@@ -1,0 +1,6 @@
+@Cdv.Api_HostAddress = http://localhost:5253
+
+GET {{Cdv.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
