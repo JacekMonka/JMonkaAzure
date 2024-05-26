@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jacek\\OneDrive\\Pulpit\\CDV AZURE\\Cdv.Api\\Cdv.Api.csproj": {}
+    "C:\\Projekty\\Studia\\Azure\\JMonkaAzure\\Zajęcia 1\\Cdv.Api\\Cdv.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jacek\\OneDrive\\Pulpit\\CDV AZURE\\Cdv.Api\\Cdv.Api.csproj": {
+    "C:\\Projekty\\Studia\\Azure\\JMonkaAzure\\Zajęcia 1\\Cdv.Api\\Cdv.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jacek\\OneDrive\\Pulpit\\CDV AZURE\\Cdv.Api\\Cdv.Api.csproj",
+        "projectUniqueName": "C:\\Projekty\\Studia\\Azure\\JMonkaAzure\\Zajęcia 1\\Cdv.Api\\Cdv.Api.csproj",
         "projectName": "Cdv.Api",
-        "projectPath": "C:\\Users\\jacek\\OneDrive\\Pulpit\\CDV AZURE\\Cdv.Api\\Cdv.Api.csproj",
+        "projectPath": "C:\\Projekty\\Studia\\Azure\\JMonkaAzure\\Zajęcia 1\\Cdv.Api\\Cdv.Api.csproj",
         "packagesPath": "C:\\Users\\jacek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jacek\\OneDrive\\Pulpit\\CDV AZURE\\Cdv.Api\\obj\\",
+        "outputPath": "C:\\Projekty\\Studia\\Azure\\JMonkaAzure\\Zajęcia 1\\Cdv.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jacek\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -80,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
