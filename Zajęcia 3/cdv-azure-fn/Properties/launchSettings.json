@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "cdv_azure_fn": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7232",
+      "launchBrowser": false
+    }
+  }
+}

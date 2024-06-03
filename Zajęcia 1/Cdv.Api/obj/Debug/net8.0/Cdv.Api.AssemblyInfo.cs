@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cdv.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2759ffc89932b0fc1ef2630fd0b6eb7c171e10a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63c42ffbcd04fc9c059171c3393091883a657f30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cdv.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cdv.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

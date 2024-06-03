@@ -27,7 +27,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.MapGet("/people", async (PeopleDb db) =>
+app.MapGet("/people", async (PeopleDb db) => 
 {
     var people = db.People.ToList();
 
